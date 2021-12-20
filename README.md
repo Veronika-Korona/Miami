@@ -10,4 +10,4 @@
 ## Description
 Fully responsive landing page for real company
 
-- [DEMO](https://veronika-korona.github.io/miami/)
+- [DEMO](https://veronika-korona.github.io/layout_miami/)
